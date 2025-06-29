@@ -1,69 +1,79 @@
-This is e-upTeX, Version 3.14159265-p3.8.1-u1.23-180226-2.6 (utf8.uptex) (TeX Live 2018) (preloaded format=uplatex 2019.2.10)  24 JUL 2022 17:32
+This is e-upTeX, Version 3.141592653-p4.1.2-u2.00-250202-2.6 (utf8.uptex) (TeX Live 2025) (preloaded format=uplatex 2025.6.1)  29 JUN 2025 16:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/minohara/Dropbox/01-University/01-Education/10-Lecture/Literacy/Exercise/CL06/LaTeX/sample.tex
-(/Users/minohara/Dropbox/01-University/01-Education/10-Lecture/Literacy/Exercise/CL06/LaTeX/sample.tex
-pLaTeX2e <2018-12-01u02> (based on LaTeX2e <2018-12-01>)
-(/usr/local/texlive/2018/texmf-dist/tex/uplatex/base/ujarticle.cls
-Document Class: ujarticle 2018/10/25 v1.8a-u00 Standard upLaTeX class
-\c@@paper=\count83
-(/usr/local/texlive/2018/texmf-dist/tex/uplatex/base/ujsize11.clo
-File: ujsize11.clo 2018/10/25 v1.8a-u00 Standard upLaTeX file (size option)
+**/Users/minohara/Library/CloudStorage/Dropbox/01-University/01-Education/10-Lecture/Literacy/Exercise/LaTeX/sample.tex
+(/Users/minohara/Library/CloudStorage/Dropbox/01-University/01-Education/10-Lecture/Literacy/Exercise/LaTeX/sample.tex
+pLaTeX2e <2023-02-14u04>+1, based on
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/uplatex/base/ujarticle.cls
+Document Class: ujarticle 2020/09/30 v1.8f-u00 Standard upLaTeX class
+\c@@paper=\count195
+(/usr/local/texlive/2025/texmf-dist/tex/uplatex/base/ujsize11.clo
+File: ujsize11.clo 2020/09/30 v1.8f-u00 Standard upLaTeX file (size option)
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
 (Font)              scaled to size 10.53629pt on input line 28.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 10.53629pt on input line 28.
 )
-\c@part=\count84
-\c@section=\count85
-\c@subsection=\count86
-\c@subsubsection=\count87
-\c@paragraph=\count88
-\c@subparagraph=\count89
-\c@figure=\count90
-\c@table=\count91
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
 \symmincho=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY2/mc/m/n --> JY2/gt/m/n on input line 615.
-\toclineskip=\dimen118
-\@lnumwidth=\dimen119
-\bibindent=\dimen120
-\heisei=\count92
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks15
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(Font)                  JY2/mc/m/n --> JY2/gt/m/n on input line 616.
+\toclineskip=\dimen157
+\@lnumwidth=\dimen158
+\bibindent=\dimen159
+\heisei=\count270
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvipdfmx.def on input line 99.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
-File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
+Package graphics Info: Driver file: dvipdfmx.def on input line 106.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2022/09/22 v5.0m Graphics/color driver for dvipdfmx
 ))
-\Gin@req@height=\dimen121
-\Gin@req@width=\dimen122
-) (/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
+\Gin@req@height=\dimen160
+\Gin@req@width=\dimen161
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (/Users/minohara/Dropbox/01-University/01-Education/10-Lecture/Literacy/Exercise/CL06/LaTeX/layout.tex) (/Users/minohara/Dropbox/01-University/01-Education/10-Lecture/Literacy/Exercise/CL06/LaTeX/sample.aux)
+) (./layout.tex) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-dvipdfmx.def
+File: l3backend-dvipdfmx.def 2024-05-08 L3 backend support: dvipdfmx
+\g__graphics_track_int=\count271
+\l__pdf_internal_box=\box69
+\g__pdf_backend_annotation_int=\count272
+\g__pdf_backend_link_int=\count273
+) (./sample.aux)
 \openout1 = `sample.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
@@ -107,23 +117,26 @@ File: possession.png Graphic file (type bmp)
 <possession.png>
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 42.
- [1
 
-]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 66.
- (/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
- (/Users/minohara/Dropbox/01-University/01-Education/10-Lecture/Literacy/Exercise/CL06/LaTeX/sample.bbl) [2] (/Users/minohara/Dropbox/01-University/01-Education/10-Lecture/Literacy/Exercise/CL06/LaTeX/sample.aux) ) 
+
+[1
+
+] (./sample.bbl)
+
+[2] (./sample.aux)
+ ***********
+pLaTeX2e <2023-02-14u04>+1, based on
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
 Here is how much of TeX's memory you used:
- 775 strings out of 493215
- 10744 string characters out of 6144072
- 77448 words of memory out of 5000000
- 4804 multiletter control sequences out of 15000+600000
- 12509 words of font info for 58 fonts, out of 8000000 for 9000
+ 1084 strings out of 473836
+ 18202 string characters out of 5731191
+ 412045 words of memory out of 5000000
+ 24377 multiletter control sequences out of 15000+600000
+ 568047 words of font info for 81 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 25i,7n,22p,290b,273s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,8n,65p,308b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on /Users/minohara/Dropbox/01-University/01-Education/10-Lecture/Literacy/Exercise/CL06/LaTeX/sample.dvi (2 pages, 4648 bytes).
+Output written on sample.dvi (2 pages, 4660 bytes).
